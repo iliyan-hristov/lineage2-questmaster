@@ -1,4 +1,5 @@
 # lineage2-questmaster
+Java | Spring Boot | Spring MVC | Hibernate | MySQL
 
 Java Spring Boot web application for managing Lineage II quests, NPCs and rewards.
 
@@ -9,3 +10,27 @@ This project was developed as part of the **Spring Fundamentals** course at **So
 Although it started as a guided educational project, I continued working with the codebase to better understand Spring Boot, MVC architecture, JPA/Hibernate and web application development.
 
 The purpose of this repository is to demonstrate my understanding of Java backend development and the technologies used in modern Spring applications.
+
+##Technologies
+
+Java
+
+Spring Boot
+
+Spring MVC
+
+Spring Security
+
+Hibernate
+
+JPA
+
+MySQL
+
+Thymeleaf
+
+Maven
+
+##Architecture
+
+Controller -> Service -> Repository -> Database
