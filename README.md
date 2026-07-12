@@ -11,7 +11,7 @@ Although it started as a guided educational project, I continued working with th
 
 The purpose of this repository is to demonstrate my understanding of Java backend development and the technologies used in modern Spring applications.
 
-##Technologies
+## Technologies
 
 Java
 
@@ -31,6 +31,6 @@ Thymeleaf
 
 Maven
 
-##Architecture
+## Architecture
 
 Controller -> Service -> Repository -> Database
